@@ -16,4 +16,3 @@ Olá! eu sou Edson Avelar 👋
 <div/>
  
 <br>
- Não atrase o seu progresso com medo de fracassar
